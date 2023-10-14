@@ -2,11 +2,11 @@ import os
 import aiohttp
 from pyrogram import Client, filters
 
-API_ID = os.environ.get('API_ID')
-API_HASH = os.environ.get('API_HASH')
-BOT_TOKEN = os.environ.get('BOT_TOKEN')
-API_KEY = os.environ.get('API_KEY')
-WEBSITE = os.environ.get('WEBSITE')
+API_ID = 5986296
+API_HASH = "7e38dc5d2f8302364f8051a68afae05b"
+BOT_TOKEN = "6308955294:AAE-IaZ4POoEFqB_ewzLdwPyXuxYJqW4tqw"
+API_KEY = "1a0c854030d56aacfbb3d478a925f795d59d5488"
+WEBSITE = "sigmalinks.in"
 
 
 try:
