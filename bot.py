@@ -4,9 +4,9 @@ from pyrogram import Client, filters
 
 API_ID = 5986296
 API_HASH = "7e38dc5d2f8302364f8051a68afae05b"
-BOT_TOKEN = "6308955294:AAE-IaZ4POoEFqB_ewzLdwPyXuxYJqW4tqw"
-API_KEY = "1a0c854030d56aacfbb3d478a925f795d59d5488"
-WEBSITE = "sigmalinks.in"
+BOT_TOKEN = "5852922187:AAEIOgCPakm-dNB1Hobv9TNrMVHGrvjrGus"
+API_KEY = "67e93a1e692a8f92b1e253fc8dc5c8868e0e3141"
+WEBSITE = "urlshortx.com"
 
 
 try:
